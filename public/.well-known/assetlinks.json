@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.example.weekly_features",
+      "sha256_cert_fingerprints": [
+        "f4:91:51:a6:1f:e8:32:35:e6:c2:88:d6:e4:ed:50:c1:7b:72:39:d8:b5:f9:67:1c:22:81:3e:56:0c:d5:04:0d"
+      ]
+    }
+  }
+]

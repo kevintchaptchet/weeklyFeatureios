@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "weeklyfeat.com.example.weeklyFeatures", // Your Apple Team ID and app bundle ID
+        "paths": [ "/uploads/*" ]
+      }
+    ]
+  }
+}
